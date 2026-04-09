@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services,LLC",
+    "phone": "+15026933125",
+    "category": "fence contractor",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Erosion Control Done Right. Period.",
+      "heroSubline": "Protecting Louisville's landscapes with proven silt fencing solutions. We handle the tough jobs so you don't have to.",
+      "aboutTitle": "Louisville's Trusted Erosion Control Experts",
+      "aboutText": [
+        "Durham's Silt Fencing, LLC, operating as LouCity Erosion Control Services, LLC, was founded on a simple principle: to provide reliable and effective erosion control solutions to the Louisville area. For over a decade, we've been tackling the challenges of Kentucky's diverse terrain and unpredictable weather, ensuring that construction sites and properties remain compliant and environmentally sound.",
+        "Our approach is straightforward: understand the specific needs of each project, implement industry-leading techniques, and deliver results that exceed expectations. We value integrity, hard work, and a commitment to excellence in every job we undertake. From initial consultation to final inspection, we're dedicated to providing clear communication and dependable service.",
+        "As a locally owned and operated business, we're deeply invested in the Louisville community. We understand the unique environmental concerns of the region and are committed to protecting our natural resources. We actively support local initiatives and strive to minimize our environmental impact through sustainable practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "We understand time is critical. Expect prompt service and efficient project completion."
+        },
+        {
+          "title": "Proven Expertise",
+          "description": "Years of experience in Louisville's soil and weather conditions guarantee effective solutions."
+        },
+        {
+          "title": "Guaranteed Compliance",
+          "description": "We ensure your project meets all local and state regulations, avoiding costly fines."
+        },
+        {
+          "title": "Sustainable Practices",
+          "description": "We prioritize environmentally responsible methods to protect Kentucky's natural resources."
+        }
+      ],
+      "ctaHeadline": "Need Erosion Control?",
+      "ctaSubline": "Get a free quote today and protect your property. Call now!"
+    },
+    "services": [
+      {
+        "slug": "silt-fence-installation",
+        "name": "Silt Fence Installation",
+        "shortDescription": "Protect your Louisville property with our expert silt fence installation services.",
+        "description": "Silt fence installation is crucial for preventing soil erosion and protecting waterways during construction and development projects. As Louisville experiences both heavy rainfall and periods of drought, effective erosion control is paramount. Our team specializes in the proper installation of silt fences to contain sediment runoff and maintain compliance with environmental regulations. We assess the specific needs of your site, taking into account soil type, slope, and drainage patterns to determine the most effective placement and configuration of the silt fence.\n\nOur installation process adheres to industry best practices and utilizes high-quality materials to ensure durability and performance. We carefully trench and bury the bottom edge of the fence to prevent undercutting, securely attach the filter fabric to the support posts, and properly space the posts for optimal stability. We also offer a variety of silt fence options, including standard woven geotextile fabric and reinforced versions for more demanding applications. \n\nWhether you're building a new residential development in St. Matthews or undertaking a commercial project near the Ohio River, Durham's Silt Fencing, LLC provides reliable silt fence installation services to protect your property and the environment.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate your property's specific erosion control needs.",
+          "Step 2: Material Selection - We choose the appropriate silt fence materials for your project.",
+          "Step 3: Professional Installation - Our experienced team installs the silt fence according to industry standards.",
+          "Step 4: Inspection and Compliance - We ensure your installation meets all regulatory requirements."
+        ],
+        "benefits": [
+          "Prevents soil erosion and sediment runoff",
+          "Protects waterways and natural resources",
+          "Ensures compliance with environmental regulations",
+          "Reduces the risk of fines and penalties"
+        ],
+        "faq": [
+          {
+            "question": "How long does silt fence last?",
+            "answer": "Typically, a silt fence will last 6-12 months depending on environmental factors and the quality of the materials used. We use durable fabrics and proper installation techniques to maximize the lifespan of our silt fences."
+          },
+          {
+            "question": "Do I need a permit for silt fence installation?",
+            "answer": "Permit requirements vary depending on the scope and location of your project. We can assist you in determining whether a permit is required and help you navigate the permitting process."
+          },
+          {
+            "question": "How often should silt fences be inspected?",
+            "answer": "Silt fences should be inspected regularly, especially after rainfall events, to ensure they are functioning properly. We offer maintenance and repair services to keep your silt fences in optimal condition."
+          }
+        ]
+      },
+      {
+        "slug": "silt-fence-repair",
+        "name": "Silt Fence Repair & Maintenance",
+        "shortDescription": "Keep your silt fences functioning properly with our Louisville repair and maintenance services.",
+        "description": "Even the best-installed silt fences can suffer damage from weather, construction activities, or general wear and tear. In Louisville's climate, with its freeze-thaw cycles and occasional flash floods, regular maintenance is crucial to ensure the continued effectiveness of your erosion control measures. Durham's Silt Fencing, LLC offers comprehensive silt fence repair and maintenance services to keep your fences in optimal condition.\n\nOur experienced technicians can quickly identify and address a wide range of issues, including tears in the fabric, damaged support posts, sediment buildup, and undercutting. We use high-quality materials and proven repair techniques to restore the integrity of your silt fences and prevent further erosion. We also offer routine maintenance services, such as sediment removal and vegetation control, to extend the lifespan of your fences and maintain their effectiveness.\n\nWhether you need emergency repairs after a storm or ongoing maintenance to protect your investment, Durham's Silt Fencing, LLC is here to help. We provide prompt, reliable service and competitive rates to ensure that your silt fences continue to perform as intended.",
+        "process": [
+          "Step 1: Thorough Inspection - We assess the condition of your silt fences and identify any areas needing repair.",
+          "Step 2: Targeted Repairs - We address specific issues, such as tears, damaged posts, or sediment buildup.",
+          "Step 3: Preventative Maintenance - We remove sediment and control vegetation to extend the lifespan of your fences.",
+          "Step 4: Quality Assurance - We ensure that all repairs are completed to the highest standards."
+        ],
+        "benefits": [
+          "Extends the lifespan of your silt fences",
+          "Maintains the effectiveness of your erosion control measures",
+          "Prevents costly repairs and replacements",
+          "Ensures continued compliance with environmental regulations"
+        ],
+        "faq": [
+          {
+            "question": "How often should silt fences be repaired?",
+            "answer": "The frequency of repairs depends on various factors, such as the severity of the weather, the level of construction activity, and the quality of the initial installation. We recommend regular inspections to identify and address issues before they become major problems."
+          },
+          {
+            "question": "Can you repair silt fences that have been severely damaged?",
+            "answer": "In many cases, we can repair severely damaged silt fences. However, if the damage is too extensive, replacement may be necessary. We will provide you with an honest assessment of the situation and recommend the most cost-effective solution."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer emergency repair services to address urgent erosion control needs. Contact us anytime, and we will respond promptly to your request."
+          }
+        ]
+      },
+      {
+        "slug": "erosion-control-blankets",
+        "name": "Erosion Control Blanket Installation",
+        "shortDescription": "Stabilize slopes and prevent erosion with our erosion control blanket services.",
+        "description": "For areas with steep slopes or highly erodible soils, erosion control blankets provide an effective solution for stabilizing the soil surface and promoting vegetation growth. These blankets are typically made of biodegradable materials, such as straw, coconut fiber, or wood excelsior, and are designed to protect the soil from the impact of rainfall and wind. Durham's Silt Fencing, LLC specializes in the proper installation of erosion control blankets to prevent erosion and establish healthy vegetation.\n\nOur team carefully prepares the soil surface, ensuring that it is smooth and free of debris. We then unroll the erosion control blanket and secure it to the ground using staples or other anchoring devices. We overlap the edges of the blankets to prevent erosion from occurring at the seams. We also select the appropriate type of erosion control blanket for your specific site conditions, taking into account soil type, slope, and vegetation requirements.\n\nWhether you're stabilizing a roadside embankment in the Highlands or restoring a disturbed area near Churchill Downs, Durham's Silt Fencing, LLC provides reliable erosion control blanket installation services to protect your property and the environment.",
+        "process": [
+          "Step 1: Site Preparation - We prepare the soil surface for erosion control blanket installation.",
+          "Step 2: Blanket Installation - We unroll and secure the erosion control blankets to the ground.",
+          "Step 3: Overlapping and Anchoring - We overlap the edges and anchor the blankets for maximum effectiveness.",
+          "Step 4: Seeding and Vegetation - We seed the area to promote vegetation growth and long-term soil stabilization."
+        ],
+        "benefits": [
+          "Stabilizes steep slopes and prevents erosion",
+          "Promotes vegetation growth and soil stabilization",
+          "Protects waterways from sediment runoff",
+          "Biodegradable and environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "How long do erosion control blankets last?",
+            "answer": "The lifespan of erosion control blankets varies depending on the type of material and the environmental conditions. Most blankets will last for several months to a year, providing ample time for vegetation to establish itself."
+          },
+          {
+            "question": "Are erosion control blankets biodegradable?",
+            "answer": "Yes, most erosion control blankets are made of biodegradable materials, such as straw, coconut fiber, or wood excelsior. These materials decompose over time, adding organic matter to the soil."
+          },
+          {
+            "question": "Do I need to seed the area after installing erosion control blankets?",
+            "answer": "Seeding is highly recommended to promote vegetation growth and long-term soil stabilization. We can provide seeding services as part of our erosion control blanket installation package."
+          }
+        ]
+      },
+      {
+        "slug": "construction-site-erosion-control",
+        "name": "Construction Site Erosion Control",
+        "shortDescription": "Comprehensive erosion control solutions for construction projects in Louisville.",
+        "description": "Construction sites are particularly vulnerable to erosion due to the disturbance of soil and vegetation. Effective erosion control is essential to protect waterways, prevent soil loss, and comply with environmental regulations. Durham's Silt Fencing, LLC provides comprehensive construction site erosion control services to minimize the impact of construction activities on the environment.\n\nOur services include silt fence installation, erosion control blanket installation, sediment basin construction, and stormwater management. We work closely with contractors and developers to develop customized erosion control plans that meet the specific needs of each project. We also provide ongoing monitoring and maintenance to ensure that erosion control measures are functioning properly throughout the construction process.\n\nFrom small residential projects to large commercial developments, Durham's Silt Fencing, LLC has the expertise and resources to provide effective construction site erosion control solutions.",
+        "process": [
+          "Step 1: Erosion Control Plan Development - We create a customized erosion control plan for your construction site.",
+          "Step 2: BMP Implementation - We install and maintain best management practices (BMPs) to prevent erosion.",
+          "Step 3: Monitoring and Maintenance - We monitor the effectiveness of erosion control measures and make adjustments as needed.",
+          "Step 4: Compliance Reporting - We provide regular reports to ensure compliance with environmental regulations."
+        ],
+        "benefits": [
+          "Minimizes soil loss and sediment runoff",
+          "Protects waterways and natural resources",
+          "Ensures compliance with environmental regulations",
+          "Reduces the risk of fines and penalties"
+        ],
+        "faq": [
+          {
+            "question": "What are BMPs?",
+            "answer": "BMPs, or best management practices, are techniques and methods used to prevent or reduce pollution from nonpoint sources, such as construction sites. Examples of BMPs include silt fences, erosion control blankets, and sediment basins."
+          },
+          {
+            "question": "How often should construction sites be inspected for erosion control?",
+            "answer": "Construction sites should be inspected regularly, especially after rainfall events, to ensure that erosion control measures are functioning properly. We offer inspection services as part of our construction site erosion control package."
+          },
+          {
+            "question": "What happens if my construction site is not in compliance with erosion control regulations?",
+            "answer": "Failure to comply with erosion control regulations can result in fines, penalties, and project delays. We can help you avoid these issues by developing and implementing an effective erosion control plan."
+          }
+        ]
+      },
+      {
+        "slug": "sediment-basin-construction",
+        "name": "Sediment Basin Construction",
+        "shortDescription": "Capture sediment runoff and protect waterways with our sediment basin construction services.",
+        "description": "Sediment basins are temporary structures designed to capture sediment runoff from construction sites and other disturbed areas. These basins allow sediment to settle out of the water before it is discharged into nearby waterways. Durham's Silt Fencing, LLC specializes in the construction of sediment basins that are effective at controlling sediment pollution.\n\nOur team carefully assesses the site conditions to determine the appropriate size and location of the sediment basin. We then excavate the basin and construct the necessary outlet structures, such as risers and spillways. We also install erosion control measures around the perimeter of the basin to prevent further erosion. Our sediment basins are designed to meet all applicable regulations and are constructed to the highest standards of quality.\n\nWhether you need a small sediment trap for a residential construction site or a large sediment basin for a commercial development, Durham's Silt Fencing, LLC can provide the expertise and resources to get the job done right.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the site to determine the appropriate size and location of the sediment basin.",
+          "Step 2: Basin Excavation - We excavate the basin according to the design specifications.",
+          "Step 3: Outlet Structure Construction - We construct the necessary outlet structures, such as risers and spillways.",
+          "Step 4: Erosion Control Measures - We install erosion control measures around the perimeter of the basin."
+        ],
+        "benefits": [
+          "Captures sediment runoff and protects waterways",
+          "Meets all applicable regulations",
+          "Reduces the risk of sediment pollution",
+          "Cost-effective solution for sediment control"
+        ],
+        "faq": [
+          {
+            "question": "How do sediment basins work?",
+            "answer": "Sediment basins work by slowing down the flow of water and allowing sediment to settle out. The outlet structure is designed to release the water at a slow rate, allowing sediment to settle to the bottom of the basin."
+          },
+          {
+            "question": "How often should sediment basins be cleaned out?",
+            "answer": "Sediment basins should be cleaned out regularly to maintain their effectiveness. The frequency of cleanout depends on the amount of sediment runoff and the size of the basin. We offer sediment basin cleanout services as part of our maintenance package."
+          },
+          {
+            "question": "What happens to the sediment that is collected in the basin?",
+            "answer": "The sediment that is collected in the basin can be disposed of in a variety of ways, depending on the type of sediment and local regulations. We can assist you in determining the appropriate disposal method."
+          }
+        ]
+      },
+      {
+        "slug": "stormwater-management",
+        "name": "Stormwater Management",
+        "shortDescription": "Effective stormwater management solutions to protect Louisville's waterways.",
+        "description": "Effective stormwater management is essential for protecting Louisville's waterways from pollution and flooding. Stormwater runoff can carry pollutants such as sediment, oil, and chemicals into rivers and streams, harming aquatic life and degrading water quality. Durham's Silt Fencing, LLC provides comprehensive stormwater management solutions to minimize the impact of stormwater runoff on the environment.\n\nOur services include the design and construction of stormwater detention basins, infiltration basins, and biofiltration systems. We also offer stormwater pollution prevention planning (SWPPP) services to help businesses and organizations comply with environmental regulations. Our team has the expertise and experience to develop customized stormwater management solutions that meet the specific needs of each project.\n\nWhether you need to manage stormwater runoff from a construction site, a commercial property, or a residential development, Durham's Silt Fencing, LLC can provide the expertise and resources to get the job done right.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the site to determine the best stormwater management solutions.",
+          "Step 2: Design and Planning - We design and plan the stormwater management system according to the site conditions and regulatory requirements.",
+          "Step 3: Construction and Installation - We construct and install the stormwater management system to the highest standards of quality.",
+          "Step 4: Monitoring and Maintenance - We monitor and maintain the stormwater management system to ensure its effectiveness."
+        ],
+        "benefits": [
+          "Protects waterways from pollution and flooding",
+          "Complies with environmental regulations",
+          "Reduces the risk of property damage",
+          "Improves water quality"
+        ],
+        "faq": [
+          {
+            "question": "What is a SWPPP?",
+            "answer": "A SWPPP, or stormwater pollution prevention plan, is a written document that describes the measures that will be taken to prevent stormwater pollution from a construction site or other industrial facility. The SWPPP must be prepared in accordance with environmental regulations."
+          },
+          {
+            "question": "How can I reduce stormwater runoff from my property?",
+            "answer": "There are many ways to reduce stormwater runoff from your property, such as installing rain gardens, using permeable pavement, and planting trees and shrubs. We can provide you with customized recommendations based on your specific site conditions."
+          },
+          {
+            "question": "How often should stormwater management systems be inspected?",
+            "answer": "Stormwater management systems should be inspected regularly to ensure that they are functioning properly. The frequency of inspections depends on the type of system and the local regulations. We offer inspection services as part of our maintenance package."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Louisville",
+        "slug": "louisville-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC is proud to offer comprehensive erosion control and silt fencing solutions to the Louisville metropolitan area. We understand the unique challenges presented by Louisville's diverse landscape, from its rolling hills to its proximity to the Ohio River. Our team is equipped to handle projects of all sizes, ensuring compliance with local regulations and minimizing environmental impact.\n\nWe are committed to providing Louisville residents and businesses with reliable and effective erosion control services. Whether you're developing a new construction site, managing stormwater runoff, or need assistance with sediment control, we have the expertise and resources to meet your needs. Our dedication to quality and customer satisfaction makes us a trusted partner in preserving Louisville's natural beauty.",
+        "localContext": "Louisville is a vibrant city known for its bourbon distilleries, the Kentucky Derby, and a thriving arts and culture scene that all contribute to a dynamic economy.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "St. Matthews",
+          "Shively"
+        ]
+      },
+      {
+        "city": "Jeffersontown",
+        "slug": "jeffersontown-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC extends its professional erosion control services to Jeffersontown, KY. We recognize the importance of responsible land management in this growing community and are dedicated to providing solutions that protect its natural resources. From residential developments to commercial construction projects, we offer a range of silt fencing and erosion control measures to prevent soil erosion and sedimentation.\n\nOur team works closely with Jeffersontown builders and developers to ensure compliance with local ordinances and best management practices. We are committed to delivering high-quality workmanship and exceptional customer service, making us a trusted partner in maintaining the environmental integrity of Jeffersontown.",
+        "localContext": "Jeffersontown is a thriving suburb of Louisville, known for its industrial parks, residential communities, and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Louisville",
+          "Middletown",
+          "Douglass Hills"
+        ]
+      },
+      {
+        "city": "St. Matthews",
+        "slug": "st-matthews-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC is pleased to offer our expertise in erosion control to the St. Matthews area. We understand the need to protect the local environment during construction and development projects. Our services include the installation and maintenance of silt fencing, erosion blankets, and other best management practices to minimize soil loss and prevent water pollution.\n\nServing both residential and commercial clients in St. Matthews, we are committed to providing cost-effective and environmentally sound solutions. Our team is knowledgeable about local regulations and works diligently to ensure compliance, allowing you to focus on your project while we handle the erosion control aspects.",
+        "localContext": "St. Matthews is an established Louisville suburb with a mix of residential neighborhoods and commercial areas, known for its shopping centers and restaurants.",
+        "nearbyAreas": [
+          "Louisville",
+          "Lyndon",
+          "Beechwood Village"
+        ]
+      },
+      {
+        "city": "Shively",
+        "slug": "shively-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC provides top-notch erosion control solutions to the city of Shively, KY. We are aware of the unique requirements for erosion prevention in this area and are committed to delivering effective and compliant services. Our silt fencing and erosion control methods are designed to protect local waterways and preserve the integrity of the land during construction and development projects.\n\nWe work closely with Shively contractors and developers to implement the best possible erosion control strategies. Durham's Silt Fencing is dedicated to providing exceptional service and ensuring that all projects meet or exceed local environmental standards, reinforcing our commitment to the Shively community.",
+        "localContext": "Shively is an independent city located within Jefferson County, known for its industrial history and strong community bonds.",
+        "nearbyAreas": [
+          "Louisville",
+          "Pleasure Ridge Park",
+          "Valley Station"
+        ]
+      },
+      {
+        "city": "Lyndon",
+        "slug": "lyndon-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC offers exceptional erosion control services to the Lyndon, KY area. We understand the importance of protecting the local environment during construction and land development. Our silt fencing and erosion control techniques are designed to prevent soil erosion and protect nearby waterways.\n\nWe work closely with Lyndon contractors and developers to make sure every project is compliant with local regulations and best management practices. Durham's Silt Fencing is dedicated to providing exceptional service and ensuring the environmental integrity of Lyndon.",
+        "localContext": "Lyndon is a vibrant suburb of Louisville, known for its strong community, parks, and family-friendly environment.",
+        "nearbyAreas": [
+          "St. Matthews",
+          "Louisville",
+          "Hurstbourne"
+        ]
+      },
+      {
+        "city": "Middletown",
+        "slug": "middletown-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC, is proud to offer erosion control services to Middletown, KY. We understand the need to protect the environment during construction and development. Our solutions are designed to minimize soil erosion and protect local waterways.\n\nWe are committed to providing Middletown residents and businesses with reliable erosion control services. Whether it's new construction, stormwater management, or sediment control, we have the expertise and resources to meet your needs.",
+        "localContext": "Middletown is an affluent suburb of Louisville, known for its historic charm, upscale homes, and excellent schools.",
+        "nearbyAreas": [
+          "Jeffersontown",
+          "Anchorage",
+          "Douglass Hills"
+        ]
+      },
+      {
+        "city": "Valley Station",
+        "slug": "valley-station-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC provides expert erosion control services to Valley Station, KY. We are aware of the specific requirements for erosion prevention in this area and are committed to delivering effective and compliant services. Our silt fencing and erosion control methods are designed to protect local waterways and preserve the integrity of the land during construction projects.\n\nWe work closely with contractors and developers in Valley Station to implement the best erosion control strategies. Durham's Silt Fencing is dedicated to providing exceptional service and ensuring that all projects meet or exceed local environmental standards.",
+        "localContext": "Valley Station is a large Louisville neighborhood known for its proximity to the Ohio River and its mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Shively",
+          "Pleasure Ridge Park",
+          "Louisville"
+        ]
+      },
+      {
+        "city": "Hurstbourne",
+        "slug": "hurstbourne-ky",
+        "state": "KY",
+        "content": "Durham's Silt Fencing, LLC - Erosion Control - LouCity Erosion Control Services, LLC offers full erosion control services to the Hurstbourne, KY area. We know how important it is to protect the local environment during construction and land development. Our silt fencing and erosion control techniques are designed to prevent soil erosion and protect nearby waterways.\n\nWe work closely with contractors and developers in Hurstbourne to ensure their projects are compliant with local regulations and best management practices. We are dedicated to providing exceptional service and ensuring the environmental integrity of Hurstbourne.",
+        "localContext": "Hurstbourne is a well-developed Louisville suburb known for its upscale residential areas, golf course, and shopping centers.",
+        "nearbyAreas": [
+          "Lyndon",
+          "Jeffersontown",
+          "Louisville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Silt Fence Installation",
+        "text": "Durham's Silt Fencing did an excellent job installing silt fences at our new construction site in Norton Commons. They were prompt, professional, and ensured we met all the city's requirements. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Erosion Control Blanket Installation",
+        "text": "We hired them to install erosion control blankets on a steep slope behind our property in the Highlands. The work was done quickly, and the blankets seem to be holding up well despite recent heavy rains. Good service overall.",
+        "date": "2024-12-03"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Silt Fence Repair & Maintenance",
+        "text": "After a storm damaged our silt fences, Durham's Silt Fencing came out quickly and repaired them. They also provided valuable advice on how to prevent future damage. Great response time and quality work!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Construction Site Erosion Control",
+        "text": "Durham's Silt Fencing handled all the erosion control for our commercial development project near the airport. They were very knowledgeable and made sure we stayed in compliance with all regulations. Top-notch service!",
+        "date": "2025-02-22"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Sediment Basin Construction",
+        "text": "We needed a sediment basin constructed quickly to manage runoff on our property. Durham's Silt Fencing was able to get it done efficiently and at a reasonable price. Very happy with the results.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Robert G.",
+        "rating": 5,
+        "service": "Stormwater Management",
+        "text": "The team helped us develop a comprehensive stormwater management plan for our new facility. They were professional, thorough, and provided excellent support throughout the entire process. Highly recommend!",
+        "date": "2025-04-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Louisville Erosion Control | Silt Fencing Experts",
+        "description": "Protect your property with Louisville's leading erosion control contractor. Silt fence installation, repair, and more. Call today!"
+      },
+      "about": {
+        "title": "About Durham's Silt Fencing | Louisville, KY",
+        "description": "Learn about Durham's Silt Fencing, LLC, Louisville's trusted provider of erosion control services. Quality, compliance, and community focused."
+      },
+      "services": {
+        "title": "Erosion Control Services | Louisville, KY",
+        "description": "Comprehensive erosion control services in Louisville. Silt fence, blankets, sediment basins, and stormwater management solutions."
+      },
+      "contact": {
+        "title": "Contact Durham's Silt Fencing | Louisville, KY",
+        "description": "Contact Durham's Silt Fencing for erosion control services in Louisville. Get a free quote today! Call +15026933125"
+      },
+      "reviews": {
+        "title": "Durham's Silt Fencing Reviews | Louisville, KY",
+        "description": "Read reviews for Durham's Silt Fencing in Louisville. See what our satisfied customers are saying about our erosion control services."
+      },
+      "service-areas": {
+        "title": "Erosion Control Service Areas | Louisville, KY",
+        "description": "Durham's Silt Fencing provides erosion control services throughout Louisville and surrounding areas in Kentucky. Find your city here."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "silt-fence-installation": "/images/service-silt-fence-installation.webp",
+      "silt-fence-repair": "/images/service-silt-fence-repair.webp",
+      "erosion-control-blankets": "/images/service-erosion-control-blankets.webp",
+      "construction-site-erosion-control": "/images/service-construction-site-erosion-control.webp",
+      "sediment-basin-construction": "/images/service-sediment-basin-construction.webp",
+      "stormwater-management": "/images/service-stormwater-management.webp"
+    },
+    "servicesResponsive": {
+      "silt-fence-installation": {
+        "src": "/images/service-silt-fence-installation.webp",
+        "srcset": "/images/service-silt-fence-installation-400w.webp 400w, /images/service-silt-fence-installation-800w.webp 800w, /images/service-silt-fence-installation-1200w.webp 1200w, /images/service-silt-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "silt-fence-repair": {
+        "src": "/images/service-silt-fence-repair.webp",
+        "srcset": "/images/service-silt-fence-repair-400w.webp 400w, /images/service-silt-fence-repair-800w.webp 800w, /images/service-silt-fence-repair-1200w.webp 1200w, /images/service-silt-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "erosion-control-blankets": {
+        "src": "/images/service-erosion-control-blankets.webp",
+        "srcset": "/images/service-erosion-control-blankets-400w.webp 400w, /images/service-erosion-control-blankets-800w.webp 800w, /images/service-erosion-control-blankets-1200w.webp 1200w, /images/service-erosion-control-blankets.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "construction-site-erosion-control": {
+        "src": "/images/service-construction-site-erosion-control.webp",
+        "srcset": "/images/service-construction-site-erosion-control-400w.webp 400w, /images/service-construction-site-erosion-control-800w.webp 800w, /images/service-construction-site-erosion-control-1200w.webp 1200w, /images/service-construction-site-erosion-control.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sediment-basin-construction": {
+        "src": "/images/service-sediment-basin-construction.webp",
+        "srcset": "/images/service-sediment-basin-construction-400w.webp 400w, /images/service-sediment-basin-construction-800w.webp 800w, /images/service-sediment-basin-construction-1200w.webp 1200w, /images/service-sediment-basin-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stormwater-management": {
+        "src": "/images/service-stormwater-management.webp",
+        "srcset": "/images/service-stormwater-management-400w.webp 400w, /images/service-stormwater-management-800w.webp 800w, /images/service-stormwater-management-1200w.webp 1200w, /images/service-stormwater-management.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
